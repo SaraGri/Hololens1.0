@@ -1,0 +1,12 @@
+# C-Sharp Assemblies, Solutions, etc #
+*.csproj
+*.sln
+*.userprefs
+
+# Compiled Applications #
+*.exe
+
+# Unity Cache for Server #
+#Projekt/Ornder/*
+SpartialMessure1/Library/*
+SpartialMessure1/Temp/*
